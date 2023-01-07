@@ -20,7 +20,7 @@
 #header {
     background-image: url(../images/banner/banner2.png);
     background-repeat: no-repeat;
-    height: 700px;
+    height: 650px;
     display: flex;
     justify-content: end;
     align-items: center;
@@ -56,11 +56,19 @@
 .person-section {
     display: flex;
     align-items: center;
-    margin: 120px 135px;
+    margin: 120px 100px;
+
+}
+
+.person-section img {
+    width: 469px;
+
+    Height: 623.3px;
 
 }
 
 .person-container {
+    margin-top: 90px;
     margin-left: 130px;
 }
 
@@ -139,7 +147,7 @@
 
     background-image: url(../images/watch.png);
     background-repeat: no-repeat;
-    height: 300px;
+    height: 307px;
     margin: 20px 143px;
     display: flex;
     justify-content: center;
